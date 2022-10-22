@@ -2,9 +2,9 @@
 
 Please use this program only for educational purposes. It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.
 
-Discord : https://discord.gg/RdVX95ysyA
+Discord : https://discord.gg/XuhQWQav7F
 
-Code created by catcha80#2887
+Code created by catcha80#2887 and Forked by Noémie
 
 
 
